@@ -1,1 +1,1 @@
-# Detection-of-Mental-Health-in-Workplace
+# DETECTION OF MENTAL HEALTH IN WORKPLACE
